@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Software Development Engineer with 3+ years of experience specializing in Android application development. Currently pursuing a Master's in Software Engineering Professional at the University of Maryland, College Park. I'm passionate about building scalable, high-performance mobile solutions and web applications.
+Software Development Engineer with 3+ years of experience specializing in Mobile DevOps and CI/CD automation for Android and iOS platforms. Currently pursuing a Master's in Software Engineering Professional at the University of Maryland, College Park. I'm passionate about building scalable deployment pipelines, automating mobile release processes, and bridging the gap between development and operations for high-performance mobile applications.
 
 - 🔭 I'm currently pursuing my **Master's in Software Engineering**
 - 🌱 I'm expanding my knowledge in **Cloud Architecture and Distributed Systems**
