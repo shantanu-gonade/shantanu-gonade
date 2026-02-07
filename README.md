@@ -100,9 +100,11 @@ Software Development Engineer with 3+ years of experience specializing in Mobile
 
 ## 📊 GitHub Stats
 
-![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanu-gonade&show_icons=true&theme=tokyonight)
+![Shantanu's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shantanu-gonade&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-gonade&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shantanu-gonade&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=shantanu-gonade&layout=compact&theme=tokyonight)
 
 💬 Feel free to reach out if you're interested in collaborating or have any questions!
 
