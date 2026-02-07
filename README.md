@@ -104,7 +104,7 @@ Software Development Engineer with 3+ years of experience specializing in Mobile
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shantanu-gonade&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=shantanu-gonade&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=shantanu-gonade&layout=compact&theme=tokyonight)
 
 💬 Feel free to reach out if you're interested in collaborating or have any questions!
 
