@@ -1,102 +1,60 @@
-# 👋 Hi, I'm Shantanu Gonade
+# Hi, I'm Shantanu Gonade 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-gonade-1b0579162/)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shantanu-gonade.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shantanu568@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-gonade-1b0579162/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shantanu568@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://shantanu-gonade.com)
+[![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/verification)
 
-## 👨‍💻 About Me
+Software Engineer with 3.5+ years building Android applications at **Samsung** serving **1.2B+ users globally** with **99.7% crash-free rates**. Specialized in system-level mobile development, cloud infrastructure, and production DevOps.
 
-Software Development Engineer with 3+ years of experience specializing in Mobile DevOps and CI/CD automation for Android and iOS platforms. Currently pursuing a Master's in Software Engineering Professional at the University of Maryland, College Park. I'm passionate about building scalable deployment pipelines, automating mobile release processes, and bridging the gap between development and operations for high-performance mobile applications.
+🎓 Master's in Software Engineering @ UMD | 📍 College Park, MD  
+🔍 **Seeking New Grad SWE roles** (Mobile, Backend, Infrastructure) | Expected May 2026
 
-- 🔭 I'm currently pursuing my **Master's in Software Engineering**
-- 🌱 I'm expanding my knowledge in **Cloud Architecture and Distributed Systems**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Android, Kotlin, Cloud Architecture, and Full-stack Development**
+## 💼 Experience
 
-## 🛠️ Skills
+**Samsung R&D Institute, India** | Software Engineer | *Feb 2021 - Sept 2024*
+- Led Android 15 migration for Call Assistant serving 1.2B+ Galaxy devices across 50+ countries
+- Built real-time messaging platform (MX Chat) with 15M+ MAU and end-to-end encryption
+- Achieved 99.7% crash-free rate with 23% memory reduction and 35% APK size decrease
+- Deep system-level integrations: Telephony, IMS, RCS, SIP/RTP/RTCP, WebRTC
 
-### Programming Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+**Connyct Inc.** | Mobile DevOps Intern | *Jun 2025 - Present*
+- Architecting enterprise CI/CD infrastructure for iOS and Android using EAS Build
+- Automating App Store and Google Play deployments with code signing and compliance validation
 
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+**Aeyesafe Inc.** | Android DevOps Intern | *May 2025 - Oct 2025*
+- Led first production release to Google Play with CI/CD pipeline (Bitbucket Pipelines, AWS CodeBuild)
+- Architected Clean MVI pattern with Jetpack Compose and modularization
 
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+## 🛠️ Tech Stack
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+**Mobile Development**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-### Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-## 💼 Professional Experience
-
-### Software Engineer at Samsung R&D Institute, Noida
-*Feb 2021 - Sept 2024*
-
-- Led migration to Android 15 using MVI architecture for Samsung Call Assistant
-- Implemented call logs viewer, translation, and recording summary features
-- Reduced load time by 68% and decreased code size by 2x
-- Developed core chat features using MVVM, Hilt Dagger, and Room DB
-- Integrated LiveKit and Bixby in front-end and SDK frameworks
-- Refactored Gallery Widget with MVVM architecture using Kotlin and Jetpack components
-
-### Founding Engineer at Living Desire Pvt. Ltd., Delhi
-*May 2020 - Feb 2021*
-
-- Led development of e-commerce progressive web app using Flutter
-- Designed and integrated authentication, product listings, shopping cart, and payment gateways
-- Collaborated with cross-functional teams and conducted code reviews
-
-## 🎓 Education
-
-- **Master of Engineering in Software Engineering Professional**  
-  University of Maryland, College Park  
-  2025 - Present
-
-- **Bachelor of Technology in Computer Engineering**  
-  Delhi Technological University  
-  2016 - 2020
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 
 ## 🚀 Featured Projects
 
-### Scalable and Secure E-Commerce Platform on AWS
-*Feb 2025 - April 2025*
+### [Campus Events on EKS](https://github.com/shantanu-gonade/campus-events-eks) | Kubernetes Microservices Platform
+Production-grade 3-tier microservices on Amazon EKS with **99.9% uptime** • Terraform IaC • PostgreSQL RDS • HPA + Karpenter autoscaling
 
-- Architected and deployed robust e-commerce system using AWS services
-- Implemented Auto Scaling and Load Balancer for dynamic traffic handling
-- Enforced security protocols with AWS WAF to mitigate threats
-- Optimized content delivery using CloudFront CDN
-- Conducted stress testing and cost optimization analysis
+### [TEMS](https://github.com/shantanu-gonade/terrapin-events) | Serverless Event Platform
+AWS AppSync GraphQL with **500+ concurrent real-time subscribers** • **100ms p95 latency** • Lambda + DynamoDB + EventBridge
 
 ## 📊 GitHub Stats
 
