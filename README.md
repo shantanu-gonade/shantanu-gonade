@@ -12,7 +12,7 @@ Software Engineer with 3.5+ years building Android applications at **Samsung** s
 
 ## 💼 Experience
 
-**Samsung R&D Institute, India** | Software Engineer | *Feb 2021 - Sept 2024*
+**Samsung R&D Institute** | Software Engineer | *Feb 2021 - Sept 2024*
 - Led Android 15 migration for Call Assistant serving 1.2B+ Galaxy devices across 50+ countries
 - Built real-time messaging platform (MX Chat) with 15M+ MAU and end-to-end encryption
 - Achieved 99.7% crash-free rate with 23% memory reduction and 35% APK size decrease
